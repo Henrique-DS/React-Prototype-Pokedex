@@ -12,4 +12,4 @@ Esse é um projeto para estudo da linguagem de programação React, nosso objeti
 
 ## Colaboradores
 
-@HenriqueQueirozz, @PabloHenrique, @TiagoGili e @CaueVr.
+[HenriqueQueirozz](https://github.com/HenriqueQueirozz), [PabloHenrique](https://github.com/PabloHenrique), [TiagoGili](https://github.com/TiagoGili) e [CaueVr](https://github.com/CaueVr).
